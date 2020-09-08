@@ -1,5 +1,3 @@
-# Talk-to-Eat
+This React application allows the user to search for recipes by using voice commands.
 
-Allows users to search for recipes using only voice commands.
-
-This project makes use of Alan ai, spoonacular, and material-UI for styling.
+This makes use of Alan AI, Material UI, and the Spoonacular API. 
