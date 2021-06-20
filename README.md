@@ -4,4 +4,4 @@ This makes use of Alan AI, Material UI, and the Spoonacular API.
 
 # Demo
 
-<img src="image.png">
+<img src="image.gif">
